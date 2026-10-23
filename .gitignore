@@ -1,0 +1,31 @@
+target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+
+# Java / Maven
+target/
+*.class
+
+# Node / React
+node_modules/
+dist/
+npm-debug.log*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
